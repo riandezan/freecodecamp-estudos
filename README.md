@@ -1,4 +1,9 @@
 # Diário de estudos Full-Stack
-## Lição: What are attributes, and how do they work?
-- Atributos dão informações extras a uma tag HTML.
-- Ficam dentro da tag de abertura, no formato nome="valor".
+
+Anotações do currículo Full-Stack Developer do freeCodeCamp.
+
+## HTML
+- [Atributos](html/atributos.md)
+- [Link e stylesheets](html/link-e-stylesheets.md)
+- [Boilerplate HTML](html/boilerplate.md)
+- [UTF-8 e charset](html/utf-8.md)
