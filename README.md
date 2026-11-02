@@ -1,9 +1,9 @@
-# Diário de estudos Full-Stack
+# Full-Stack Developer Study Journal
 
-Anotações do currículo Full-Stack Developer do freeCodeCamp.
+Notes from the freeCodeCamp Full-Stack Developer curriculum.
 
 ## HTML
-- [Atributos](html/atributos.md)
-- [Link e stylesheets](html/link-e-stylesheets.md)
-- [Boilerplate HTML](html/boilerplate.md)
-- [UTF-8 e charset](html/utf-8.md)
+- [Attributes](html/attributes.md)
+- [Link element and stylesheets](html/link-e-stylesheets.md)
+- [HTML boilerplate](html/boilerplate.md)
+- [UTF-8 and charset](html/utf-8.md)
